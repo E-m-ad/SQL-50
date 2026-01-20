@@ -1,128 +1,17 @@
-# SQL-50 Study Plan
+#  LeetCode 75 - Study Plan
 
-This repository tracks my progress through the SQL-50 study plan, which covers essential SQL concepts and problem-solving techniques.
+My solutions for the LeetCode 75 study plan in C++.
 
-## 📊 Progress Overview
-
-![Progress](https://img.shields.io/badge/Progress-0%2F50-red)
-
-*Update the progress badge manually by changing the number (e.g., 0%2F50 to 25%2F50 for 25 completed problems). Colors: red (0-33%), yellow (34-66%), green (67-100%)*
-
-## 📚 Study Plan Structure
-
-The SQL-50 study plan is organized into different categories covering fundamental to advanced SQL topics.
-
-### Select (5 problems)
-- [ ] 1. Recyclable and Low Fat Products
-- [ ] 2. Find Customer Referee
-- [ ] 3. Big Countries
-- [ ] 4. Article Views I
-- [ ] 5. Invalid Tweets
-
-### Basic Joins (8 problems)
-- [ ] 6. Replace Employee ID With The Unique Identifier
-- [ ] 7. Product Sales Analysis I
-- [ ] 8. Customer Who Visited but Did Not Make Any Transactions
-- [ ] 9. Rising Temperature
-- [ ] 10. Average Time of Process per Machine
-- [ ] 11. Employee Bonus
-- [ ] 12. Students and Examinations
-- [ ] 13. Managers with at Least 5 Direct Reports
-
-### Basic Aggregate Functions (7 problems)
-- [ ] 14. Not Boring Movies
-- [ ] 15. Average Selling Price
-- [ ] 16. Project Employees I
-- [ ] 17. Percentage of Users Attended a Contest
-- [ ] 18. Queries Quality and Percentage
-- [ ] 19. Monthly Transactions I
-- [ ] 20. Immediate Food Delivery II
-
-### Sorting and Grouping (6 problems)
-- [ ] 21. Number of Unique Subjects Taught by Each Teacher
-- [ ] 22. User Activity for the Past 30 Days I
-- [ ] 23. Product Sales Analysis III
-- [ ] 24. Classes More Than 5 Students
-- [ ] 25. Find Followers Count
-- [ ] 26. Biggest Single Number
-
-### Advanced Select and Joins (5 problems)
-- [ ] 27. The Number of Employees Which Report to Each Employee
-- [ ] 28. Primary Department for Each Employee
-- [ ] 29. Triangle Judgement
-- [ ] 30. Consecutive Numbers
-- [ ] 31. Product Price at a Given Date
-
-### Subqueries (6 problems)
-- [ ] 32. Last Person to Fit in the Bus
-- [ ] 33. Count Salary Categories
-- [ ] 34. Employees Whose Manager Left the Company
-- [ ] 35. Exchange Seats
-- [ ] 36. Movie Rating
-- [ ] 37. Restaurant Growth
-
-### Advanced String Functions / Regex / Clause (5 problems)
-- [ ] 38. Fix Names in a Table
-- [ ] 39. Patients With a Condition
-- [ ] 40. Delete Duplicate Emails
-- [ ] 41. Second Highest Salary
-- [ ] 42. Group Sold Products By The Date
-
-### Additional Problems (8 problems)
-- [ ] 43. List the Products Ordered in a Period
-- [ ] 44. Find Users With Valid E-Mails
-- [ ] 45. Customer Placing the Largest Number of Orders
-- [ ] 46. Game Play Analysis IV
-- [ ] 47. Number of Calls Between Two Persons
-- [ ] 48. Capital Gain/Loss
-- [ ] 49. Top Travellers
-- [ ] 50. Find Total Time Spent by Each Employee
-
-## 🎯 Goals
-
-- Master fundamental SQL SELECT statements
-- Learn JOIN operations (INNER, LEFT, RIGHT, FULL)
-- Practice aggregate functions (COUNT, SUM, AVG, MAX, MIN)
-- Understand GROUP BY and HAVING clauses
-- Work with subqueries and nested queries
-- Apply window functions and advanced SQL techniques
-- Develop strong SQL problem-solving skills
-
-## 📁 Repository Structure
-
-```
-SQL-50/
-├── README.md           # This file - track your progress here
-├── Select/            # Solutions for Select problems
-├── Basic-Joins/       # Solutions for Basic Joins problems
-├── Aggregate/         # Solutions for Aggregate Functions problems
-├── Sorting/           # Solutions for Sorting and Grouping problems
-├── Advanced-Joins/    # Solutions for Advanced Joins problems
-├── Subqueries/        # Solutions for Subqueries problems
-├── String-Functions/  # Solutions for String Functions problems
-└── Additional/        # Solutions for Additional problems
-```
-
-## 🚀 How to Use This Repository
-
-1. **Track Progress**: Check off problems as you complete them in this README
-2. **Organize Solutions**: Store your SQL solutions in the appropriate category folder
-3. **Document Learning**: Add notes and explanations to understand the concepts better
-4. **Review Regularly**: Revisit solved problems to reinforce learning
-
-## 📝 Notes
-
-- Each problem should have a `.sql` file with the solution
-- Consider adding comments to explain your approach
-- Test your solutions thoroughly before marking as complete
-- Review and optimize solutions for better performance
-
-## 🔗 Resources
-
-- LeetCode SQL Study Plans
-- SQL Documentation and Tutorials
-- Database Practice Environments
-
----
-
-**Happy Learning! 🎓**
+## 📊 Progress
+| Topic | Problem | Difficulty | Status |
+| :--- | :--- | :--- | :--- |
+| **Array / String** | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | ✅ |
+| **Array / String** | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | ✅ |
+| **Array / String** | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | ✅ |
+| **Array / String** | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | ✅ |
+| **Array / String** | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | ✅ |
+| **Array / String** | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | ✅ |
+| **Array / String** | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
+| **Array / String** | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) | Medium | ✅ |
+| **Array / String** | [443. String Compression](https://leetcode.com/problems/string-compression/description/) | Medium | ✅ |
+| **Two Pointer** | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ |
