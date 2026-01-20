@@ -6,6 +6,8 @@ This repository tracks my progress through the SQL-50 study plan, which covers e
 
 ![Progress](https://img.shields.io/badge/Progress-0%2F50-red)
 
+*Update the progress badge manually by changing the number (e.g., 0%2F50 to 25%2F50 for 25 completed problems). Colors: red (0-33%), yellow (34-66%), green (67-100%)*
+
 ## 📚 Study Plan Structure
 
 The SQL-50 study plan is organized into different categories covering fundamental to advanced SQL topics.
@@ -117,7 +119,7 @@ SQL-50/
 
 ## 🔗 Resources
 
-- [LeetCode SQL Problems](https://leetcode.com/studyplan/top-sql-50/)
+- LeetCode SQL Study Plans
 - SQL Documentation and Tutorials
 - Database Practice Environments
 
