@@ -12,3 +12,4 @@ My solutions for the LeetCode SQL-50 study plan.
 | **Database** | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Easy | ✅ |
 | **Database** | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50) | Easy | ✅ |
 | **Database** | [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) | Easy | ✅ |
+| **Database** | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) | Easy | ✅ |
